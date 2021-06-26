@@ -1,0 +1,4 @@
+mysql:
+  url: 123
+lagou:
+  message: 666
